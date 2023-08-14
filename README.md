@@ -1,4 +1,4 @@
-# Predicting Housing Prices Project
+# Predicting House Prices Project
 
 Both python and jupyter notebook files are provided. The project uses Random Forest regression to predict house prices.
 Dataset includes the following features:
